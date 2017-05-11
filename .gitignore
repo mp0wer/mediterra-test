@@ -1,0 +1,14 @@
+*~
+*.iml
+*.pyc
+*.sqlite3
+*.sql
+*.tar*
+*.zip
+.DS_Store
+.python-version
+/*.json
+.idea/
+.tox/
+/static/
+/media/
