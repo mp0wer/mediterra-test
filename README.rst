@@ -1,3 +1,5 @@
+.. image:: https://travis-ci.org/mp0wer/mediterra-test.svg?branch=master
+    :target: https://travis-ci.org/mp0wer/mediterra-test
 
 Python (2.7, 3.4, 3.5)
 
